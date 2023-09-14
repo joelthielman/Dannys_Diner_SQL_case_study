@@ -1,6 +1,6 @@
 # Danny's Diner Case Study
 
-![Danny.png]
+![Danny.png](Danny.png)
 
 This is a case study developed by Danny Ma. It can be found on his website [here.](https://8weeksqlchallenge.com/case-study-1/)
 
